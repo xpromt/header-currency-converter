@@ -1,0 +1,25 @@
+.currency-input-value {
+  font-family: inherit;
+  width: 100px;
+  border: 0;
+  border-bottom: 2px solid white;
+  outline: 0;
+  font-size: 1.1rem;
+  color: white;
+  background: transparent;
+}
+.currency-input-select {
+  font-family: inherit;
+  width: 55px;
+  outline: 0;
+  font-size: 1rem;
+  color: white;
+  background: darkslategrey;
+  border-radius: 5px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
